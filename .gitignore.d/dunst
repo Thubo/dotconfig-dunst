@@ -1,0 +1,6 @@
+*
+!/.config
+!/.config/dunst
+!/.config/dunst/dunstrc
+!/.gitignore.d
+!/.gitignore.d/dunst
